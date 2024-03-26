@@ -1,0 +1,1 @@
+{"uuid":"c9926fe9-e89b-453a-86d9-a4543dc73437","name":"EnuygunE2ETest","children":["665d0c80-c7f8-4367-ae99-e58eec32ce57"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1710978828507,"stop":1710978831195}],"afters":[],"start":1710978828480,"stop":1710978844430}
